@@ -2,7 +2,7 @@ class Method
 {
 void main(int n)
 {
-System.out.println(n+ Factorial=+Fact)
+System.out.println(n+"Factorial="+Fact)
 }
 int Fact(int x)
 {
