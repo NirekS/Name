@@ -1,0 +1,20 @@
+import java.util.*;
+Class switch
+{
+void main()
+{
+System.out.println("Fill in the blanks");
+System.out.println("I ate __ apple");
+System.out.println("Choose one: 1.a/t 2. an/t");
+Scanner sc=new Scanner(System.in);
+int x;
+x=sc.nextInt();
+switch(x)
+{
+case 1:System.out.println("wrong");
+break;
+case 2:System.out.println("Correct");
+break;
+default:System.out.println("Invalid choice");
+}}}
+
