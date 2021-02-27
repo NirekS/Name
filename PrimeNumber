@@ -2,7 +2,7 @@ Class prime{
 void main(int n) {
 boolean isPrime=true;
 for(int i=0;i<n;i++)
-if(num%i==0)
+if(n%i==0)
 {isPrime=false;
 break;}}
 if(isPrime=false)
